@@ -2,7 +2,7 @@
 
 <img
         src="https://files.catbox.moe/ic5ila.png" 
-        width=45%
+        width=65%
         title="made by calsoiyum_"
         alt="made by Calsoiyum_" >
 

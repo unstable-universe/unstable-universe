@@ -1,10 +1,10 @@
 <p align="center"
 
 <img
-        src="https://files.catbox.moe/87rrsx.gif" 
+        src="https://files.catbox.moe/ic5ila.png" 
         width=45%
-        title="My Image"
-        alt="My Image" >
+        title="made by calsoiyum_"
+        alt="made by Calsoiyum_" >
 
 <p align="center"
 

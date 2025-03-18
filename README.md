@@ -8,7 +8,7 @@
 
 <p align="center"
 
-[*rentry !*](https://rentry.co/debunk) <img
+[*rentry !*](https://rentry.co/odysseyduo) <img
         src="https://files.catbox.moe/7xun58.gif" 
         width=3%
         title="My Image"

@@ -1,10 +1,14 @@
 <p align="center"
 
+ac whosmaymadness
+
+<p align="center"
+
 <img
-        src="https://files.catbox.moe/ic5ila.png" 
-        width=65%
-        title="made by calsoiyum_"
-        alt="made by Calsoiyum_" >
+        src="https://files.catbox.moe/s9k7e5.png" 
+        width=40%
+        title="made by whosmaymadness"
+        alt="made by whosmaymadness" >
 
 <p align="center"
 

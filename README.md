@@ -17,4 +17,4 @@ ac whosmaymadness
         width=3%
         title="My Image"
         alt="My Image"
-    /> [*strwpge*](https://loserduo.straw.page/)
+    /> [*strwpge*](https://wifies.straw.page/)
